@@ -23,17 +23,25 @@
     .container {
         display: flex;
         flex-direction: column;
-        align-items: center;
-        width: 100vw;
+        justify-content: center;
+        width: 180vw;
     }
-      
+     
+    .sides{
+        width: 100%; height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
     input {
         margin: 10px;
     }
       
     textarea {
-        font-size: 105%;
-        margin-top: 15px;
+        font-size: 120%;
+        line-height: 130%;
+        margin-top: 10vh;
         width: 100%;
         overflow:hidden;
         border: none;
@@ -43,19 +51,20 @@
   
 <body>
     <center>
-        <h4 style="margin-top: 10px;">Soap-bubbles and the Forces Which Mould Them</h4>
+        <h4 style="margin: 10px;">Vowel Cancellation</h4>
         <h4 id ="page">Page 1</h4>
         <div class="main">
-            <div id="prev" onclick="prev()" style="width: 100%; display: flex; flex-direction: column; justify-content: center;">
-                <h1>Previous</h1>
+            <div class="sides">
             </div>
             <div class="container">
-                <textarea cols="25" rows="55" style="resize: none;" readonly="readonly"
+                <textarea cols="25" rows="25" style="resize: none;" readonly="readonly"
                         placeholder="text will appear here">
                 </textarea>
             </div>
-            <div id="next" onclick="next()" style="width: 100%; display: flex; flex-direction: column; justify-content: center;">
-                <h1>Next</h1>
+            <div class="sides">
+                <p style="margin: 20px;">Task: Count the vowels in the passage and enter them below to continue.</p>
+                <input type="text" placeholder="Enter no. of vowels" id="uInp">
+                <button type="button" style="width: 25%;" onclick="checkvowels();">Get Value</button>
             </div>
 
         </div>
@@ -63,20 +72,10 @@
     <script type="text/javascript">        
         let textarea = document.querySelector('textarea')
         let page = 0;
-            
-        // This event listener has been implemented to identify a
-        // Change in the input section of the html code
-        // It will be triggered when a file is chosen.
+        let vowels = 0;
 
-        function prev(){
-            if(page > 0){
-                page--;
-                document.getElementById("page").innerText = "Page "+(page+1);
-                update();
-            }
-        }
         function next(){
-            if(55*(page+1) < 2494){ //if pages are left 
+            if((page+1) < 20){ //if pages are left 
                 page++;
                 document.getElementById("page").innerText = "Page "+(page+1);
                 update();
@@ -84,17 +83,23 @@
         }
 
         function getText(text){
-            lines = text.split('\n');
-            let para = lines[0+(55*page)];
-            console.log(lines[0])
-            for (let index = 1+(55*page); index < 55*(page+1); index++) {
-                if(lines[index])
-                para += "\n" + lines[index];
-            }
+            lines = text.split('!');
+            let para = lines[0+(page)];
             textarea.value = para;
+            vowels = para.match(/[aeiou]/gi).length; // count vowels
+            console.log(vowels);
+        }
+        function checkvowels(){ //check if user input matches with counted vowels
+            var inputVal = document.getElementById("uInp").value;
+            if(inputVal == vowels){
+                next();
+            } else {
+                alert("Incorrect!")
+            }
+            document.getElementById("uInp").value = "";
         }
         function update(){
-            const url = "https://raw.githubusercontent.com/Ali-Qasim/boringresearch/main/sbub.txt"
+            const url = "https://raw.githubusercontent.com/zubathasbigeyes/zubathasbigeyes.github.io/main/bored.txt"
             fetch(url)
             .then( r => r.text() )
             .then( t => getText(t))
