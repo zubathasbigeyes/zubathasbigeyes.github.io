@@ -1,5 +1,6 @@
 Ancient Penguins Were Giant Waddling Predators
-
+.
+.
 The 57-million-year-old fossil is both fearsome and comical: a long-beaked penguin that stood 5 feet 7 inches tall and weighed about 220 pounds.
 ''It was as tall as a medium-sized man,'' said Gerald Mayr, a paleontologist at the Senckenberg Research Institute in Frankfurt, Germany, and lead author of a report in Nature Communications on Tuesday announcing the discovery. 
 By comparison, the tallest living species, the emperor penguin, reaches about four feet in height. Kumimanu biceae, as the fossil was named, would have towered above the emperor, and above just about all other known ancient penguins. 
@@ -9,26 +10,24 @@ The 18 modern species of penguin, ranging from the coast of Antarctica to the Ga
 But their adaptations to water have also left them unable to fly. When penguins haul out to rest or rear their young, they can only waddle about on stumpy legs. ''They're so unbirdlike that many people would not know they are birds,'' Dr. Mayr said.
 While penguins may look profoundly different from other birds, their DNA points to a close kinship to such species as albatrosses and petrels. These birds all fly over water to hunt for prey, hinting that the ancestors of penguins may have, too.
 Auks, which can dive over a hundred feet underwater, may be a living model of the first penguins.
-Birds accumulate mutations in their DNA at a roughly clocklike rate, allowing scientists to estimate when their lineages branched apart. Studies suggest that penguins diverged around the time of the mass extinction that struck the planet about 66 million years ago.
-  A combination of massive volcanic eruptions and an asteroid impact are believed to have been responsible for the global catastrophe. Among the victims were giant marine reptiles and dinosaurs (with the exception of birds, which are feathered dinosaurs). The mass extinctions marked the end of the Mesozoic Era and the beginning of the Cenozoic, which continues today.
-  The first penguin fossils were uncovered in 1859, and since then more than 50 species have been identified. The oldest of these, found in New Zealand, date back about 60 million years. Known as Waimanu, the oldest known penguins lived just a few million years after the mass extinctions.
-  The new fossil penguin, Kumimanu, was discovered from bones packed in a rock on a New Zealand beach. Realizing that it was almost as old as Waimanu, Dr. Mayr and his colleagues eagerly studied Kumimanu for a better picture of early penguin evolution.
-  To see how it was related to other species, the scientists drew an evolutionary tree and found that Kumimanu and Waimanu belonged to its farthest branches. Their lineages have been extinct for tens of millions of years.
-  By contrast, all living penguins belong to a young branch of the tree. They share a common ancestor that lived only about 15 million years ago.
-  Kumimanu and Waimanu were already flightless, but they still held onto some primitive traits not found in living penguins.
-  ''Their beak looked much more like a stork's,'' Dr. Mayr said. ''Probably they speared their prey.''
-  The early penguin wing was not yet the short, stiff blade found on living penguins. ''They were probably able to bend it a little farther than penguins can today,'' Dr. Mayr said. ''There was more possibility for flexing.''
-  Where Waimanu and Kumimanu differ from each other is in their height. Waimanu stood just two and a half feet high. Kumimanu was more than twice as tall.
-  ''We already knew penguins were around, and flightless, just a few million years after the extinction,'' said Daniel T. Ksepka, a paleontologist at the Bruce Museum in Greenwich, Conn., who was not involved in the new study. ''The new fossil shows they achieved immense sizes very rapidly as well, which is cool.''
-  Dr. Mayr speculates that the dramatic origin of penguins was sparked by the mass extinctions that marked the dawn of the Cenozoic. Suddenly the oceans were emptied of many of their biggest predators. Penguins could adapt to catching prey underwater without much competition, or fear.
-  ''It's an educated guess that makes sense, but there's no rock-solid evidence,'' said Dr. Mayr.
-  One way to test that hypothesis would be to uncover earlier fossils. ''What would be cool would be to have a flying ancestor of penguins,'' Dr. Mayr said.
-  The early Cenozoic oceans didn't just open up the way for the evolution of flightless aquatic birds, Dr. Mayr speculated. It may have also fostered the evolution to big sizes.
-  Natural selection favors lightweight flying birds because they have to work so hard to stay aloft. Penguins don't pay that cost. Getting bigger might have brought advantages, as well. A large body makes prey harder to kill.
-  The tree drawn by Dr. Mayr and his colleagues also shows that penguins became giants many times over. While Kumimanu belonged to an early lineage of big penguins, other lineages produced their own giants as recently as 27 million years ago.
-  The rise of marine mammals may have doomed giant penguins. As mammals moved into the oceans and evolved into whales and seals, they may have outcompeted the birds.
-  Both seals and penguins need to find safe beaches where they can mate and raise their young, for example. It's possible that the seals pushed the giant penguins out, while smaller penguins survived.
-  ''The big question for me is not why there were so many penguins in the early Cenozoic, but why there are no giant penguins today?'' Dr. Mayr said.
+Birds accumulate mutations in their DNA at a roughly clocklike rate, allowing scientists to estimate when their lineages branched apart. Studies suggest that penguins diverged around the time of the mass extinction that struck the planet about 66 million years ago. A combination of massive volcanic eruptions and an asteroid impact are believed to have been responsible for the global catastrophe. Among the victims were giant marine reptiles and dinosaurs (with the exception of birds, which are feathered dinosaurs). The mass extinctions marked the end of the Mesozoic Era and the beginning of the Cenozoic, which continues today.
+The first penguin fossils were uncovered in 1859, and since then more than 50 species have been identified. The oldest of these, found in New Zealand, date back about 60 million years. Known as Waimanu, the oldest known penguins lived just a few million years after the mass extinctions.
+The new fossil penguin, Kumimanu, was discovered from bones packed in a rock on a New Zealand beach. Realizing that it was almost as old as Waimanu, Dr. Mayr and his colleagues eagerly studied Kumimanu for a better picture of early penguin evolution.
+To see how it was related to other species, the scientists drew an evolutionary tree and found that Kumimanu and Waimanu belonged to its farthest branches. Their lineages have been extinct for tens of millions of years.
+By contrast, all living penguins belong to a young branch of the tree. They share a common ancestor that lived only about 15 million years ago. Kumimanu and Waimanu were already flightless, but they still held onto some primitive traits not found in living penguins.
+''Their beak looked much more like a stork's,'' Dr. Mayr said. ''Probably they speared their prey.''
+The early penguin wing was not yet the short, stiff blade found on living penguins. ''They were probably able to bend it a little farther than penguins can today,'' Dr. Mayr said. ''There was more possibility for flexing.''
+Where Waimanu and Kumimanu differ from each other is in their height. Waimanu stood just two and a half feet high. Kumimanu was more than twice as tall.
+''We already knew penguins were around, and flightless, just a few million years after the extinction,'' said Daniel T. Ksepka, a paleontologist at the Bruce Museum in Greenwich, Conn., who was not involved in the new study. ''The new fossil shows they achieved immense sizes very rapidly as well, which is cool.''
+Dr. Mayr speculates that the dramatic origin of penguins was sparked by the mass extinctions that marked the dawn of the Cenozoic. Suddenly the oceans were emptied of many of their biggest predators. Penguins could adapt to catching prey underwater without much competition, or fear.
+''It's an educated guess that makes sense, but there's no rock-solid evidence,'' said Dr. Mayr.
+One way to test that hypothesis would be to uncover earlier fossils. ''What would be cool would be to have a flying ancestor of penguins,'' Dr. Mayr said.
+The early Cenozoic oceans didn't just open up the way for the evolution of flightless aquatic birds, Dr. Mayr speculated. It may have also fostered the evolution to big sizes.
+Natural selection favors lightweight flying birds because they have to work so hard to stay aloft. Penguins don't pay that cost. Getting bigger might have brought advantages, as well. A large body makes prey harder to kill.
+The tree drawn by Dr. Mayr and his colleagues also shows that penguins became giants many times over. While Kumimanu belonged to an early lineage of big penguins, other lineages produced their own giants as recently as 27 million years ago.
+The rise of marine mammals may have doomed giant penguins. As mammals moved into the oceans and evolved into whales and seals, they may have outcompeted the birds.
+Both seals and penguins need to find safe beaches where they can mate and raise their young, for example. It's possible that the seals pushed the giant penguins out, while smaller penguins survived.
+''The big question for me is not why there were so many penguins in the early Cenozoic, but why there are no giant penguins today?'' Dr. Mayr said.
 
 Founding the New England Colonies
 Ten years after the Pilgrims first landed at Plymouth, another group left England in search of religious freedom. This group called themselves Puritans. 
@@ -59,7 +58,7 @@ In 1955, Rosa Parks took a seat in the middle of a bus in Montgomery, Alabama. S
 African Americans were kept from voting in some states, especially in the South. Martin Luther King Jr. tried to change that in 1965 by leading peaceful marches in Selma, Alabama. The marchers were attacked by state police and others who disagreed with them. The violence was shown on TV. Many people around the nation were upset by it. Later that year, Congress passed the Voting Rights Act. By 1968, more than half of all African Americans who were old enough had registered to vote.
 Many groups fought for their rights during the 1960s. Cesar Chavez and Dolores Huerta started a group that became the United Farm Workers of America. It tries to improve conditions for farm laborers. Women fought for equal pay and equal rights. Formed in 1966, the National Organization for Women became a political force for women’s rights. In 1968, the American Indian Movement (AIM) was founded to help make life better for Native Americans.
 The President’s Home
-· 750L - 890L 
+
 The city of Washington, D.C., was created to be the center of the national government. A special home, now called the White House, was built for the president at 1600 Pennsylvania Avenue. George Washington chose the spot and approved the plans. But he never lived there. 
 The capital city of the U.S. during his presidency was first New York and then Philadelphia. When the second president, John Adams, moved into the presidential home in 1800, it was still under construction. Since then, the building has been remodeled, added to, and redecorated many times.
 How did Washington, D.C., become the nation’s capital? The decision to build it there was worked out at a dinner between James Madison, Alexander Hamilton, and Thomas Jefferson. Madison agreed to let the federal government take on the debt carried by the states. In return, Hamilton agreed to place the new capital in the South.
