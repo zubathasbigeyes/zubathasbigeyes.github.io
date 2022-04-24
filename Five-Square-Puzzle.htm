@@ -575,6 +575,7 @@
         data:$("#myForm").serializeArray(),
         success: function(){
           alert("Experiment complete!")
+          window.location.replace("https://www.google.com/");
         },
         error: function(){
           console.log("There was an error :(")
@@ -604,8 +605,8 @@
     }
 
     setTimeout(() => {
-            redir();
-          }, 360000); //6 minutes
+      redir();
+    }, 360000); //6 minutes
 
     update();
   </script>
