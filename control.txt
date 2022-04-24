@@ -29,7 +29,6 @@ The tree drawn by Dr. Mayr and his colleagues also shows that penguins became gi
 ''The big question for me is not why there were so many penguins in the early Cenozoic, but why there are no giant penguins today?'' Dr. Mayr said.
 .
 .
----
 .
 .
 CIVIL RIGHTS
@@ -46,7 +45,6 @@ In 1951, Linda Brown had playmates of different races in her hometown of Topeka,
 Many groups fought for their rights during the 1960s. Cesar Chavez and Dolores Huerta started a group that became the United Farm Workers of America. It tries to improve conditions for farm laborers. Women fought for equal pay and equal rights. Formed in 1966, the National Organization for Women became a political force for women’s rights. In 1968, the American Indian Movement (AIM) was founded to help make life better for Native Americans.
 .
 .
----
 .
 .
 THE PRESIDENT'S HOME
@@ -66,7 +64,39 @@ CHILDREN IN THE WHITE HOUSE
 Some presidents have had young children who lived in the White House. In 1893, Esther Cleveland, the second child of Grover Cleveland, became the only child of a president to be born there. Theodore Roosevelt was the youngest person to become president. He brought six children to the White House, ranging in age from 3 to 17. They were always getting up to something. The nation followed their adventures with great interest. In 1971, Tricia Nixon became the last president’s child to be married in the White House. 
 .
 .
----
+What Does the President Do?
+.
+The Constitution describes the job of the president, but the Constitution was written more than 200 years ago. As the country has grown and changed, so has the president’s job. Today, the president has seven major roles.
+.
+Chief Executive
+.
+The president is the leader of the executive branch. He appoints the heads of the executive branch’s departments and agencies. These include everything from the Department of Education to the FBI. The president also makes sure that all laws passed by Congress and all court rulings are obeyed. In 1957, local officials in Little Rock, Arkansas, ignored a court order. They refused to allow African American students to attend Little Rock Senior High School. President Dwight Eisenhower then sent in federal troops. They made sure the students could attend the school safely.
+.
+Head of State
+.
+As the head of state, the president is a symbol of the whole nation. The president makes speeches at special occasions and presents awards to outstanding citizens. He may even throw out the first ball at the beginning of baseball season – as Ronald Reagan is doing here at a Chicago Cubs game in 1988.
+.
+Commander in Chief of the Armed Forces
+.
+The president makes decisions about defending the country. He chooses our top military leaders. He decides where troops should be sent. He also decides what kinds of weapons will be used. Some presidents have sent troops overseas to fight even without Congress declaring war. The Korean War (1950–1953) and the Vietnam War (1957–1975) are two examples. The president alone decides if nuclear weapons will be used. In 1945, President Harry Truman gave the order to drop atomic bombs on two Japanese cities in hopes of ending World War II. 
+.
+Chief Diplomat
+.
+The president makes decisions about how the nation deals with other countries. The president appoints ambassadors. He also sets foreign policy and meets with leaders of other countries. Some presidents have taken on the job of peacemaker between warring countries. President Jimmy Carter (center) helped Menachem Begin of Israel (right) and Anwar Sadat of Egypt (left) reach a peace agreement in 1978. Begin and Sadat won the Nobel Peace Prize that year. Carter won it in 2002.
+.
+Legislative Leader
+.
+Only Congress can pass laws. But the president can send bills to Congress for consideration. The Constitution says the president “shall from time to time give to the Congress information of the state of the Union, and recommend to their consideration such measures as he shall judge necessary.” Over the years, the State of the Union speech has become a tradition. The president gives this speech to Congress every January. In the picture above, John F. Kennedy is delivering his first State of the Union speech, in 1961.
+.
+Party Leader
+.
+A political party is a group of people who want to direct government policies. They do this by electing candidates to office. The U.S. has two major political parties: Republican and Democratic. The president is the leader of the party to which he or she belongs. The president helps decide the party’s positions on issues, and also helps other candidates of the party. The president uses party members as advisers and often appoints them to government offices. Above, former president Bill Clinton is speaking at the Democratic National Convention in Boston, Massachusetts, in 2004.
+.
+ Chief Guardian of the Economy
+ .
+The economy refers to a country’s system of producing, distributing, and consuming wealth. The president meets with business and labor leaders. He also meets with economic advisers. They discuss how to make sure there are enough jobs and how to keep prices at an acceptable level. They also discuss whether to raise or lower taxes. In general, they discuss how to make sure the country and its people have enough money and jobs. In this picture, President Lyndon B. Johnson is visiting with a farmer in 1961.
+.
+.
 .
 .
 SNOWY OWLS - STEALTHY HUNTERS
@@ -105,10 +135,11 @@ BETTER LEFT IN THE WILD
 On screen, Harry Potter's snowy owl, Hedwig, made a good companion. In real life, snowy owls are not good pets. Besides needing a constant supply of whole rodents to eat, these hunters require lots of flying space. Experts sometimes have permits to keep injured birds in captivity if they'd be unable to survive in the wild. Otherwise, it's illegal to keep snowy owls in captivity.
 .
 .
----
 .
 .
-Life on MARS
+LIFE ON MARS
+.
+.
 Pack your bags, and don't forget the spacesuit--you're moving to Mars! NASA wants to send astronauts to Mars by the 2030s. Scientists would live here while exploring the planet and finding resources to use back on Earth. And you could be one of these planetary pioneers. "Unlike Earth, Mars doesn't have oxygen, water, or food," says NASA scientist Chris McKay. "So we'll have to get creative to survive." Here's where you might work, sleep, and hang out as a red planet resident.
 .
 .
@@ -151,7 +182,6 @@ WHO WANTS TO BE A MARTIAN?
 A company called Mars One wants to send 24 people to live on the red planet starting in 2026. Many experts doubt Mars One has the technology to get their plans off the ground. But that hasn't stopped people from trying to score a spot on the expedition. Over 4,000 people reportedly applied to join the mission. The one hundred most qualified candidates will be trained in a model Mars colony. They'll have to do tasks such as building Martian dwellings. Those who perform the best will be selected for the Mars One team.
 .
 .
----
 .
 .
 MISSION TO MARS
@@ -240,7 +270,6 @@ Space on the Orion is tight. What would you bring? Get inspired by these past as
 NASA hopes to send humans to Mars in the 2030s.That means someone who's a kid now could be one of the first to make the trip!
 .
 .
----
 .
 .
 HOW MANY TURNS FOR THE TERN?
@@ -280,7 +309,6 @@ Dr. Egevang also solved the mystery of the migration routes. Arctic terns fly ov
 Thanks to Dr. Egevang's research, the Arctic tern holds the record for the longest migration on Earth.
 .
 .
----
 .
 .
 DRESSED FOR THE WEATHER
