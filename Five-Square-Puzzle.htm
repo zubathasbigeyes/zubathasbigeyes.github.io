@@ -541,6 +541,7 @@
       }else{
         stage = 0;
       }
+      console.log(stage);
 
       if(urlParams.has('batch')){
         batch = urlParams.get('batch');
@@ -604,7 +605,9 @@
     }
 
     setTimeout(() => {
-      redir();
+      if(stage == 0){
+        redir();
+      }
     }, 360000); //6 minutes
 
     update();
