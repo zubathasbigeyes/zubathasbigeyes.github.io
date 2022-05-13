@@ -1,16 +1,15 @@
-The Black Cat
+Text 1: The Black Cat
 .
 Chapter 0: Introductory Note
 .
 The main character in this story is called Salahadin. He is an inspector in the Egyptian police. 
 His job is to protect Egyptian antiquities. An antiquity is something which is very old.
-There are many antiquities in Egypt. Most of them are valuable. Many of them are in museums in 
-Cairo or in Europe. But there are many others which have not yet been found. These antiquities 
-are buried under the sands, in tombs or in pyramids. There are many archeologists working in Egypt. 
-Archeologists study ancient cities and tombs. Sometimes they find antiquities. They must give all 
-these antiquities to the Egyptian Government. But some archeologists try to keep them. Salahadin's 
-job is to stop this happening. Salahadin has studied history at Cairo University and at the University 
-of London. He has visited many museums in Cairo and in Europe.
+There are many antiquities in Egypt. Most of them are valuable. Many of them are in museums in Cairo or in Europe. 
+But there are many others which have not yet been found. These antiquities are buried under the sands, in tombs or in pyramids. 
+There are many archeologists working in Egypt. 
+Archeologists study ancient cities and tombs. Sometimes they find antiquities. They must give all these antiquities to the Egyptian Government. 
+But some archeologists try to keep them. Salahadin's job is to stop this happening. 
+Salahadin has studied history at Cairo University and at the University of London. He has visited many museums in Cairo and in Europe.
 .
 .
 “ARCHAEOLOGIST MURDERED
@@ -21,12 +20,14 @@ of London. He has visited many museums in Cairo and in Europe.
 Chapter 1: Salahdin is Worried
 .
 Salahadin was sitting in his office with his coat off. It was the month of May in Cairo and it was very hot. 
-Salahadin stood up and turned on the fan. He was a young man, only twenty-eight years old. He was not very 
-tall and quite thin. His black hair was cut very short. Salahadin's office was in the centre of Cairo. It was in a
-large building behind the Nile Hotel. It was a small office and Salahadin's name was not on the door. Not many
-people knew that he was a detective. But he was not an ordinary detective. Inspector Salahadin protected all the antiquities of Egypt. 
-Salahadin was waiting for an archeologist called Mr Pearson. Pearson had been in Egypt for six months. 
-He had been working in a valley in the south of Egypt. Pearson had been looking for antiquities. He had come back to Cairo a few days ago and was leaving Egypt soon.
+Salahadin stood up and turned on the fan. He was a young man, only twenty-eight years old. He was not very tall and quite thin. 
+His black hair was cut very short. Salahadin's office was in the centre of Cairo. It was in a large building behind the Nile Hotel. 
+It was a small office and Salahadin's name was not on the door. Not many people knew that he was a detective. But he was not an ordinary detective. 
+Inspector Salahadin protected all the antiquities of Egypt. Salahadin was waiting for an archeologist called Mr Pearson. 
+Pearson had been in Egypt for six months. 
+He had been working in a valley in the south of Egypt. Pearson had been looking for antiquities. 
+He had come back to Cairo a few days ago and was leaving Egypt soon.
+.
 But Mr Pearson had not come to Salahadin's office. Every archeologist had to see Salahadin before they left Egypt. 
 Salahadin was worried. Pearson had not come yet. Salahadin picked up the telephone and rang the number of Pearson's hotel. 
 'Nile Hotel,' said a voice. 'Can I help you?'
@@ -91,7 +92,8 @@ Ahmed and Salahadin left Pearson's room and went down stairs. They sat down and 
 'How can we find the seventh box?' asked Ahmed.
 'I need your help,' replied Salahadin.
 'How can I help you?' asked Ahmed.
-'The murderer took the box with him,' said Salahadin. 'It was heavy and it's hot today. The murderer did not carry the box very far. Perhaps he took a taxi.'
+'The murderer took the box with him,' said Salahadin. 'It was heavy and it's hot today. 
+The murderer did not carry the box very far. Perhaps he took a taxi.'
 'Perhaps he had his own car,' said Ahmed.
 'We don't know,' replied Salahadin. 'But, perhaps he took a taxi.'
 'That's possible,' agreed Ahmed. 'And you want to find that taxi. But, how can I help you?'
@@ -99,8 +101,8 @@ Ahmed and Salahadin left Pearson's room and went down stairs. They sat down and 
 'That's true,' agreed Ahmed. 'What shall I say in the message?'
 'When did Pearson die?' asked Salahadin.
 'About half past ten this morning,' replied Ahmed.
-'Then here's the message,' said Salahadin. 'The police want to speak to a taxi driver. T
-his taxi driver was near the Nile Hotel at about eleven o'clock this morning. A man got into his taxi. The man was carrying a heavy box. 
+'Then here's the message,' said Salahadin. 'The police want to speak to a taxi driver. 
+This taxi driver was near the Nile Hotel at about eleven o'clock this morning. A man got into his taxi. The man was carrying a heavy box. 
 The police want to speak to the taxi driver as soon as possible.'
 'Good,' said Ahmed. 'I'll put out this message immediately.'
 'Most taxis have radios,' said Salahadin. 'Perhaps a taxi driver will remember a man with a heavy box.
@@ -108,7 +110,10 @@ The police want to speak to the taxi driver as soon as possible.'
 'I'll telephone you immediately,' replied Ahmed. It was now late afternoon. Outside on the street it was still very hot. 
 Salahadin got into a taxi. Luckily there were few cars and the streets were almost empty. He soon arrived back in his office.
 Salahadin turned on the radio. He heard the message. It was repeated after fifteen minutes. Salahadin waited.
-Suddenly the telephone rang. It was Ahmed. 'We've been lucky,' said Ahmed. 'A taxi driver is here in my office. 
+Suddenly the telephone rang. It was Ahmed. 
+.
+.
+'We've been lucky,' said Ahmed. 'A taxi driver is here in my office. 
 A man with a heavy box got into his taxi near the Nile Hotel'
 'At what time?' asked Salahadin.
 'At eleven o'clock this morning,' replied Ahmed. 'Do you want to speak to him?'
@@ -123,6 +128,7 @@ The taxi driver was waiting in Ahmed's office. He was a fat, happy-looking man. 
 'He was tall with broad shoulders,' replied the taxi driver.
 'He had fair hair. He spoke Arabic, but he was not an Arab. Perhaps he was Swedish.'
 Salahadin thought for a few moments. Then he asked the taxi driver another question.
+.
 'This man spoke Arabic, did he?' asked Salahadin.
 'What kind of Arabic did he speak?'
 'What do you mean?' asked the driver.
@@ -242,6 +248,7 @@ He told the driver to take the road beside the sea. The sun was shining on the c
 The air was fresh and cool. Salahadin felt very happy in Beirut. It was nice and cool after the heat and dust of Cairo.
 When he got to the docks, he asked about the boat from Alexandria. The Sudan did not arrive at Beirut until half past six in the evening. 
 Salahadin had more than six hours to wait. He decided to visit a friend called Fuad. Fuad had been a student with Salahadin at Cairo University.
+.
 He now worked in the Lebanese Department of Antiquities in Beirut. His office was in a large museum in the north-east part of the city. 
 Salahadin took a taxi to the museum. Fuad was surprised and pleased to see him. 'We'll have lunch together,' said Fuad. 'I'll phone my wife immediately.'
 Ten minutes later they were in Fuad's car. Fuad lived in a small village in the mountains above Beirut. The road was very steep. 
@@ -249,6 +256,7 @@ It twisted and turned up the mountain.
 This road is dangerous,' said Salahadin.
 'You're right,' replied Fuad. 'And it's more dangerous higher up. People are often killed up there.'
 But it was also very beautiful. It was spring and the trees and the flowers were fresh and green. Some people were already selling fruit beside the road. 
+.
 They had large baskets of strawberries. The car soon arrived at Fuad's house. Fuad's wife, Leila, was waiting for them.
 'Hello, Salahadin,' said Leila. 'It's nice to see you again.
 We've a lot to talk about. But first, we'll have lunch.' After lunch they sat out on the verandah and drank coffee.
@@ -257,6 +265,7 @@ Behind the buildings were the docks and the sea.'Now,' said Fuad, 'why are you i
 He told him, also, about the man with fair hair.'I want to be at the docks at six o'clock,' said Salahadin. 'I'm going to meet The Sudan. 
 It arrives at half past six.'
 'I'll take you there in my car,' said Fuad.
+.
 They sat on the verandah and talked together. The time passed quickly and soon they had to leave for the docks.
 'Bring Salahadin back here,' Leila said to Fuad. 'Our house is more comfortable than a hotel. He must stay here tonight.'
 Salahadin thanked Leila and stood up.
@@ -295,6 +304,7 @@ The taxi went quickly through the streets of Beirut. Then it started to climb th
 'Yes,' replied Fuad. 'This road goes higher up the mountains. It goes to a small town called Ba'albek.'
 'I've heard of Ba'albek,' said Salahadin. 'There are some famous ruins there.'
 'And there's a gang of smugglers, too,' said Fuad. 'They smuggle antiquities out of Beirut.'
+.
 The three cars drove up the steep road. They went past Fuad's village. Fuad drove on in silence. The road became narrower and steeper and Fuad did not drive too close to the black car.
 'The road's more dangerous here,' said Fuad. 'There was an accident a few weeks ago. Four people were killed.'
 For a few moments nothing happened. Then the black car began to go faster. It had moved into the middle of the road and was trying to pass Borkman's taxi. 
@@ -320,6 +330,7 @@ There was silence for a few moments. Borkman closed his eyes and lay still on th
 'Yes,' replied Fuad. 'What do you want?'
 'Go to Ba'albek,' said Borkman. 'Go to Jusef's café. Ask for Jusef. Tell Jusef ...'
 Borkman was silent again.
+.
 What do I tell Jusef?' asked Fuad.
 'Tell him that Pearson's dead,' said Borkman. 'And the Black Cat's safe.'
 'Where is the Black Cat?' asked Salahadin.
@@ -409,6 +420,7 @@ Salahadin took a taxi from the airport to Piraeus, the seaport of Athens. He got
 It was only six o'clock in the morning. Salahadin had a long time to wait. But Piraeus is full of small cafés and restaurants. 
 Salahadin passed the time drinking coffee and sleeping. At eleven o'clock Salahadin walked back to the docks.
 He tried to walk through the gate, but a policeman stopped him.
+.
 'You can't go through the gate without a ticket,' said the policeman.
 Salahadin had an idea. The man in the office had said that The Syria was going to Venice. 
 Salahadin went back to the office and bought a first class ticket to Venice. When he got into the docks, The Syria had not yet arrived. 
@@ -416,6 +428,7 @@ Salahadin sat down on a box and waited.
 'Peterson is not an Egyptian name,' thought Salahadin.
 'It's another Swedish name, like Borkman. Perhaps Peterson is Swedish also. I'll look for a man with fair hair. He'll be carrying a box.'
 The Syria was half an hour late. It arrived in the docks at half past twelve. Salahadin watched the people getting off the boat. They were all Egyptian.
+.
 There were some men with their wives and children, and many students. There was no one who looked Swedish.
 At that moment, someone appeared on the top deck of The Syria. He was a tall man with fair hair. That's Peterson, thought Salahadin. 
 So, he's decided to stay on the boat. Perhaps he's going to Venice. I'll get on the boat and go to Venice, too.
@@ -450,6 +463,7 @@ Then there was the noise of running water. Peterson was having a shower. Salahad
 A few minutes later there was a knock at his door. The steward had brought Salahadin's dinner. At the same time, Peterson came out of his cabin. 
 He locked the door and walked down the corridor. Peterson was going to the dining-room.
 The steward went away and Salahadin was left alone. He looked out into the corridor. Everything was quiet. Salahadin left his cabin and crossed the corridor. 
+.
 He put the key in the lock of cabin 22 and quietly opened the door. Then he went into the cabin and shut the door carefully behind him.
 Salahadin looked round the cabin. There was a case on top of the cupboard and some clothes on the bed. But he did not see a box. 
 He looked inside the shower-room. It was empty. The Black Cat must be here, thought Salahadin. Where has he hidden it? 
@@ -475,6 +489,7 @@ Peterson opened the door and looked out into the corridor. It was empty.
 Salahadin came out of the cabin and Peterson followed him. Salahadin walked slowly up the stairs. When they reached the top deck, Peterson spoke again.
 'Walk over to the rail.'
 There was a rail round the side of the ship. Over the rail was the sea. 
+.
 The Syria had now passed through the Corinth Canal and the ship was rolling from side to side. Salahadin walked slowly forward towards the funnel.
 'Stop,' said Peterson. 'Turn round.'
 Salahadin turned and looked at Peterson.
@@ -518,6 +533,7 @@ After a few minutes there was a knock at the door. It was the steward.
 'When do you want breakfast, sir?' asked the steward.
 'I feel tired,' replied Salahadin. 'Don't wake me in the morning. When I want breakfast, I'll call you.'
 'Goodnight, then,' said the steward.
+.
 Salahadin said goodnight and locked his door. He had not slept on a bed for many hours and he was very tired. He undressed and got into bed. 
 At first, the movement of the boat kept him awake. But he was soon asleep and slept deeply all night.
 When Salahadin woke up the next morning, the bright sun was shining into his cabin. He looked at his watch. It was nearly eleven o'clock. 
@@ -572,6 +588,7 @@ I told them about the café in Ba'albek and about Jusef. Then they believed me.'
 Jusef was a clever man. The police had to trick him and they asked me to go to Ba'albek. 
 They wanted me to go into the café and give Jusef the message from Borkman.
 'I went to Ba'albek in the evening,' continued Fuad. 'I found Jusef's café. It was near the ruins of the old city. I sat down and asked for coffee. 
+.
 Then I asked for Jusef. I told Jusef about Borkman's death.
 'The police were waiting outside,' Fuad continued. 'They were hiding in a car. I told Jusef about the Black Cat and he thanked me. 
 Then he hurried out of the café.'
@@ -633,4 +650,42 @@ Ahmed was standing in the middle of the room. He was talking to Fuad and Leila. 
 .
 The Black Cat was inside. Underneath, there was a notice:
 “The Black Cat of Ankuten given by Salahdin El Nur”	
-..
+.
+.
+.
+.
+Text 2: Road to Nowhere
+.
+.
+The trouble at Um Khalid began with the workmen. When they built the new road, they forgot about the rains. 
+They made a small passage for men and animals. But they forgot about the water in the rainy season. 
+That year, the rains began earlier than usual. And it rained heavily. Only one man saw the danger . . . and he was too late.
+.
+.
+Chapter 1: On the Way to Market
+.
+Five o'clock on a Friday morning and I was going to market. I was walking because my donkey was carrying a tin of cheese
+and a large bag of vegetables. The sun was not up yet, but the sky was becoming lighter.
+I wanted to be at the market before seven o'clock. It was twelve kilometres from my village to the market in Nabur.
+There was no road. There was only a narrow path. We could not go to the market at all in the rainy season.
+Luckily, the rainy season lasts only two months, July and August. It doesn't rain during the rest of the year.
+There were twenty houses in my village, Um Khalid. The biggest house belonged to Abdel Rahman El Soussi, and I was in love with his daughter, Hanim. 
+She was a beautiful girl. I had often seen Hanim at weddings in the village. But I had never spoken to her. I sometimes dreamed about her at night. 
+I was eighteen years old, strong and healthy. But I was afraid to look at her.
+.
+Her father didn't like me. In fact, I was his chief enemy. Abdel Rahman was the richest man in the village. He was the chief and everyone obeyed him. 
+But I didn't. Let me tell you why. All the other boys in Um Khalid had fathers and they obeyed their fathers. I didn't have a father because he died
+years ago. I was only three years old at the time. I don't remember him. I was my mother's only child - I had no brothers or sisters. 
+And when I grew older, I was the man in the house.
+I had seven uncles and they all tried to be my father. But I didn't like any of them. I was 'father' in my own house.
+Abdel Rahman, the village chief, was an old man. He was more than forty years old. He was not my uncle, but he tried to be my father. He did not like me. 
+We often quarrelled because I did not always obey him. On my way to market, I thought about Abdel Rahman and about his daughter, Hanim.
+'What can I do?' I asked myself. 'I am the enemy of Hanim's father and I love her.'
+But I was also thinking about other things. Everybody in Um Khalid was poor. Even Abdel Rahman wasn't very rich. 
+Each family had one or two cows, some goats and some sheep. And we all owned some land beside the river.
+We could not sell things in the market at Nabur every day. We lived too far away. 
+We went to the market every Friday and sold our vegetables and cheese cheaply. We could not sell milk because the road was too long and bumpy. 
+We made our milk into cheese and sold it cheaply. Everyone in the market knew that we came from Um Khalid. 
+They didn't buy from us in the morning. They knew that we had a long journey home. So we had to sell cheaply in the afternoon. 
+We didn't want to carry things back to the village.
+'How can we become richer?' I often asked myself. 'How can we make things better?'
