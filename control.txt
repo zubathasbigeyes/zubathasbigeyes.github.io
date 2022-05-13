@@ -30,20 +30,14 @@ He had been working in a valley in the south of Egypt. Pearson had been looking 
 But Mr Pearson had not come to Salahadin's office. Every archeologist had to see Salahadin before they left Egypt. 
 Salahadin was worried. Pearson had not come yet. Salahadin picked up the telephone and rang the number of Pearson's hotel. 
 'Nile Hotel,' said a voice. 'Can I help you?'
-'Can I speak to the manager, please,' said Salahadin.
-Salahadin waited for a few moments. Then he heard the
-manager's voice.
+'Can I speak to the manager, please,' said Salahadin. Salahadin waited for a few moments. Then he heard the manager's voice.
 'Can I help you?' said the manager.
-'Yes,' replied Salahadin. 'My name's Salahadin El Nur.
-I'm a police inspector. I want to speak to Mr Pearson.'
-'Do you mean Mr Pearson, the archeologist?' asked the
-manager.
+'Yes,' replied Salahadin. 'My name's Salahadin El Nur. I'm a police inspector. I want to speak to Mr Pearson.'
+'Do you mean Mr Pearson, the archeologist?' asked the manager.
 'Yes,' replied Salahadin.
-'I'm sorry. You can't speak to Mr Pearson, sir,' said the
-manager.
+'I'm sorry. You can't speak to Mr Pearson, sir,' said the manager.
 'Oh,' said Salahadin in surprise. 'Why not?'
-'Mr Pearson is dead,' replied the manager. 'He was found
-dead in his room this morning. Mr Pearson was murdered.'
+'Mr Pearson is dead,' replied the manager. 'He was found dead in his room this morning. Mr Pearson was murdered.'
 .
 .
 Chapter 2: The Missing Box
@@ -54,9 +48,10 @@ A hot, dusty wind was blowing between the tall buildings. Salahadin jumped into 
 The streets were full of cars and the taxi moved slowly. It took a long time to get to the Nile Hotel.
 A policeman was standing at the door of the hotel. 
 'I'm sorry,' said the policeman. 'No one is allowed into the hotel.'
+.
 Salahadin showed the policeman his identity card. The policeman took Salahadin to his chief. 
 Luckily, Salahadin knew this officer. It was Inspector Ahmed, a school friend of Salahadin's.
-
+.
 Ahmed took Salahadin upstairs to Pearson's room. Pearson was lying on the bed. There was a knife in his chest.
 'Why are you interested in this man?' Ahmed asked Salahadin. 'Do you know him?'
 'His name is Pearson,' replied Salahadin. 'He's an archeologist. He was working in the south. He was leaving Egypt soon and I wanted to see him.'
@@ -74,13 +69,16 @@ The boxes were full of spades and other things for digging.
 'There's nothing important or valuable in these boxes,' said Salahadin. 'We must speak to all of the hotel staff. Perhaps one of them noticed something unusual.'
 The manager brought the staff to Ahmed and Salahadin. They asked each person many questions, but they did not learn anything important.
 Then Salahadin had an idea.
+-
 'Who carried these boxes to this room?' he asked the manager.
 The manager brought back two porters.
 'Did you carry these boxes into this room?' Salahadin asked the porters.
 'Yes,' they replied.
 'How many boxes were there?' asked Salahadin.
 'Six boxes,' replied the first porter. 'I carried three and my friend carried three.'
+.
 Salahadin looked at the boxes. There were six of them. No one had taken a box.
+.
 'Wait a moment,' said the second porter. 'You're wrong. There were seven boxes. You carried three, I carried three.'
 'But that makes six boxes, not seven,' said Ahmed, with a smile. 'You can't count.'
 'I can count,' replied the porter. 'There were seven boxes. Mr Pearson carried one into the room himself. 
