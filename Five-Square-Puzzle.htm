@@ -265,16 +265,16 @@
       [0, 0, 0, 0, 0, 0, 0, 0, 0], //h
       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], //v
 
+      [0, 0, 0, 0, 0, 0, 0, 0, 0], //h
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], //v
+
       [0, 0, 0, 0, 1, 0, 0, 0, 0], //h
       [0, 0, 0, 0, 1, 1, 0, 0, 0, 0], //v
 
-      [0, 0, 0, 0, 1, 0, 0, 0, 0], //h
-      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], //v
+      [0, 0, 1, 0, 1, 1, 0, 0, 0], //h
+      [0, 0, 1, 1, 0, 1, 1, 0, 0, 0], //v
 
-      [0, 0, 0, 1, 0, 1, 0, 0, 0], //h
-      [0, 0, 0, 1, 1, 1, 1, 0, 0, 0], //v
-
-      [0, 0, 0, 1, 1, 1, 0, 0, 0], //h
+      [0, 0, 1, 0, 1, 1, 0, 0, 0], //h
       [0, 0, 0, 0, 1, 1, 0, 0, 0, 0], //v
 
       [0, 0, 0, 0, 1, 0, 0, 0, 0], //h
@@ -563,8 +563,8 @@
       alert("Solved!");
       document.getElementById("id").value = id;
       document.getElementById("batch").value = batch;
-      document.getElementById("time").value = Math.round((Date.now()-start)/1000) + (stage*1500); //add 25 mins depending on stage
-
+      document.getElementById("time").value = Math.round((Date.now()-start)/1000);
+      console.log(Math.round((Date.now()-start)/1000)+ 480*stage)
       SubForm();
 
     }
@@ -575,7 +575,9 @@
         type:"post",
         data:$("#myForm").serializeArray(),
         success: function(){
-          alert("You have completed the experiment. Please remain quietly seated until you receive further instructions from the researcher.")
+          alert("Experiment complete. Please remain quietly seated until you receive further instructions from the researcher.")
+          link = "https://zubiyasiddiqui.github.io/Complete.htm"
+          window.location.replace(link);
         },
         error: function(){
           console.log("There was an error :(")
@@ -604,11 +606,19 @@
       window.location.replace(link);
     }
 
-    setTimeout(() => {
-      if(stage == 0){
-        redir();
-      }
-    }, 480000); //8 minutes
+    if(stage == 0){
+      setTimeout(() => {
+          redir();
+      }, 480000); //8 minutes
+    } else if(stage == 1){
+      setTimeout(() => {
+        document.getElementById("id").value = id;
+        document.getElementById("batch").value = batch;
+        document.getElementById("time").value = "not solved";
+
+        SubForm();
+      }, 720000); //12 minutes =720s
+    }
 
     update();
   </script>
