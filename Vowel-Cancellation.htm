@@ -223,13 +223,8 @@
             console.log(vowels);
         }
         function checkvowels(){ //check if user input matches with counted vowels
-            var inputVal = document.getElementById("uInp").value;
-            if(inputVal == vowels){
-                next();
-            } else {
-                alert("Incorrect!")
-            }
-            document.getElementById("uInp").value = "";
+	          next();
+            document.getElementById("uInp").value = ""; //clear textbox
         }
         function update(){
             const url = "https://raw.githubusercontent.com/zubathasbigeyes/zubathasbigeyes.github.io/main/bored.txt"
