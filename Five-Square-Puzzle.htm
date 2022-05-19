@@ -90,7 +90,7 @@
     var id;
     var stage = 0; //before/after tasks?
     var batch = 'c'; //boredom/mind-wandering/control
-    const start = Date.now();
+    var start = 0;
     const canvas = document.querySelector('canvas');
     const c = canvas.getContext('2d');
     const match_no = 9; // 9x9 grid
@@ -557,6 +557,7 @@
             getArgs();
         }
       }
+      start = Date.now();
     }
 
     function solved(){
