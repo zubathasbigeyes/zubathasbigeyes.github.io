@@ -566,7 +566,7 @@
       alert("Solved!");
       document.getElementById("id").value = id;
       document.getElementById("batch").value = batch;
-      document.getElementById("time").value = Math.round((Date.now()-start)/1000)+ 480*stage;
+      document.getElementById("time").value = Math.round((Date.now()-start)/1000)+ 360*stage; //add  6 mins for stage 1
       SubForm();
 
     }
@@ -611,7 +611,7 @@
     if(stage == 0){
       setTimeout(() => {
           redir();
-      }, 480000); //8 minutes
+      }, 360000); //6 minutes
     } else if(stage == 1){
       setTimeout(() => {
         document.getElementById("id").value = id;
@@ -619,7 +619,7 @@
         document.getElementById("time").value = "not solved";
 
         SubForm();
-      }, 720000); //12 minutes =720s
+      }, 840000); //14 minutes =840s
     }
 
     update();
