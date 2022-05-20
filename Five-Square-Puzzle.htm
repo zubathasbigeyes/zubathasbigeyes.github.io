@@ -91,6 +91,7 @@
     var stage = 0; //before/after tasks?
     var batch = 'c'; //boredom/mind-wandering/control
     var start = Date.now();
+    var complete = false;
     const canvas = document.querySelector('canvas');
     const c = canvas.getContext('2d');
     const match_no = 9; // 9x9 grid
@@ -508,6 +509,7 @@
           }
         }
         if(equality == 180){
+          complete = true;
           setTimeout(() => {
             solved();
           }, 400);
@@ -605,7 +607,9 @@
       }else{
         link = "https://zubiyasiddiqui.github.io/Reading-Task.htm?id="+id;
       }
-      window.location.replace(link);
+      if(!complete){
+        window.location.replace(link);
+        }
     }
 
     if(stage == 0){
